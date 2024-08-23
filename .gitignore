@@ -2,4 +2,5 @@
 *.exe
 *.pdb
 Cargo.lock
+Cargo.toml
 .idea
